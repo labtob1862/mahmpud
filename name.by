@@ -1,0 +1,4 @@
+print("Welcome to the YouTube Channel Name Generator: ")
+name = input("what is your name? \n")
+tobic = input("what your channel apout? \n")
+print(f"your could name your channel ' {tobic} whis {name}' ")
